@@ -1,0 +1,30 @@
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/bin/Debug/net6.0/Curso C#
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/bin/Debug/net6.0/Curso C#.deps.json
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/bin/Debug/net6.0/Curso C#.runtimeconfig.json
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/bin/Debug/net6.0/Curso C#.dll
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/bin/Debug/net6.0/ref/Curso C#.dll
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/bin/Debug/net6.0/Curso C#.pdb
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/Curso C#.csproj.AssemblyReference.cache
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/Curso C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/Curso C#.AssemblyInfoInputs.cache
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/Curso C#.AssemblyInfo.cs
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/Curso C#.csproj.CoreCompileInputs.cache
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/Curso C#.dll
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/ref/Curso C#.dll
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/Curso C#.pdb
+/home/victor-dolsan/Documentos/cod3cursos/C#/Curso C#/obj/Debug/net6.0/Curso C#.genruntimeconfig.cache
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/bin/Debug/net6.0/Curso C#
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/bin/Debug/net6.0/Curso C#.deps.json
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/bin/Debug/net6.0/Curso C#.runtimeconfig.json
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/bin/Debug/net6.0/Curso C#.dll
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/bin/Debug/net6.0/ref/Curso C#.dll
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/bin/Debug/net6.0/Curso C#.pdb
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/Curso C#.csproj.AssemblyReference.cache
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/Curso C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/Curso C#.AssemblyInfoInputs.cache
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/Curso C#.AssemblyInfo.cs
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/Curso C#.csproj.CoreCompileInputs.cache
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/Curso C#.dll
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/ref/Curso C#.dll
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/Curso C#.pdb
+/home/victor-dolsan/Documentos/cod3cursos/C#/CursoCSharp/obj/Debug/net6.0/Curso C#.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+https://blog.cod3r.com.br/terminal-no-macos-e-linux/
+Estrtutura de Dados => É uma forma de organizar, através de regras, condições, e padronização, os dados de um sistema.
+
+.NET => É um framework(Plataforma), que dá uma estrutura, funcionalidades no qual você vai desenvolver a sua aplicação.
+
+.Net é separado em duas partes, sendo elas:
+
+CLR- Commun Language Runtime => É uma parte do .Net que faz uma intermediação na tradução de qualquer linguagem de programação que estiver sendo usada, para se comunicar com o Sistema Operacional(em nível de máquina). 
+
+LIB- Libraries
+
+*********C#**********
+
+Namespace =>  ~Pasta
+Classes => ~Arquivo
+
+Utilizar o Clean Code(Código Limpo) como boas práticas.
+
+**Variáves e Constantes**
+
+Variáveis são funções que podem ser modificadas => double raio = 4.2;
+Constantes são funções que não podem ser modificadas => const double PI = 3.14;
+
+*********Classes Vs Objeto*********
+
+Dentro de uma classe existem os:
+Atributos => que são os Dados daquela classe
+Comportamentos => Algoritimos 
+
+
+
